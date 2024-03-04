@@ -1,6 +1,3 @@
-Certainly! Here's the README in markdown format:
-
-```markdown
 # README for Trapezoidal Rule Integration with Pthreads
 
 ## Overview
@@ -84,4 +81,3 @@ Make sure that the values of `a`, `b`, and `n` are valid inputs. The program wil
 
 The Trapezoidal rule implementation with Pthreads demonstrates different synchronization techniques, each with its own set of advantages and disadvantages. The timing results provide insights into the efficiency of each approach, aiding in the selection of an appropriate synchronization mechanism based on specific use cases.
 
-```
